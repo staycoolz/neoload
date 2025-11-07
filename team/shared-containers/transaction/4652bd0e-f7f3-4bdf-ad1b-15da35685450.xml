@@ -1,0 +1,13 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="1" serverUid="localhost"
+    slaProfileEnabled="false" uid="4652bd0e-f7f3-4bdf-ad1b-15da35685450" useKeepAlive="true">
+    <requestContentFileDescription>team/shared-containers/transaction/%resources%/recorded-requests/req_4652bd0e-f7f3-4bdf-ad1b-15da35685450.txt</requestContentFileDescription>
+    <header name="Host" value="localhost:3000"/>
+    <header name="Authorization" value="Basic YWRtaW46c2VjcmV0"/>
+    <header name="Connection" value="close"/>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

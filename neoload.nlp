@@ -1,0 +1,17 @@
+# Project description file
+
+project.name=neoload
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2024.3.1
+project.is-open-test-settings-after-upload=false
+project.password.hash=kn2CAZJ4ibmrfLSBBTJeoLmjE5CyIOhNFwUHlFJurvY=$0
+project.id=39ca08c2-1a8c-476d-b546-49da515de39e
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/staycoolz/neoload.git
